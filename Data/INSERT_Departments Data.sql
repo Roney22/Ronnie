@@ -1,0 +1,1 @@
+INSERT INTO Departments (dept_name) VALUES('Operations'), ('DM'),('BA'),('Dev'),('QA'),('Reports')
